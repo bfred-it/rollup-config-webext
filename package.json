@@ -11,8 +11,14 @@
   "dependencies": {
     "rollup-plugin-node-resolve": "^2.0.0"
   },
+  "scripts": {
+    "test": "xo"
+  },
   "bugs": {
     "url": "https://github.com/bfred-it/rollup-config-webext/issues"
   },
-  "homepage": "https://github.com/bfred-it/rollup-config-webext#readme"
+  "homepage": "https://github.com/bfred-it/rollup-config-webext#readme",
+  "devDependencies": {
+    "xo": "^0.16.0"
+  }
 }
