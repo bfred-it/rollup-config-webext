@@ -1,0 +1,18 @@
+{
+  "name": "rollup-config-webext",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "repository": "bfred-it/rollup-config-webext",
+  "author": "Federico Brigante <bfred-it@users.noreply.github.com> (twitter.com/bfred_it)",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "rollup-plugin-node-resolve": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/bfred-it/rollup-config-webext/issues"
+  },
+  "homepage": "https://github.com/bfred-it/rollup-config-webext#readme"
+}
