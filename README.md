@@ -13,10 +13,7 @@ npm install --save-dev rollup-config-webext
 ## Usage
 
 ```sh
-rollup \
---config node:webext \
---input background.js \
---output dist/background.js
+rollup --config node:webext src/background.js --output dist/background.js
 ```
 
 ## Related
